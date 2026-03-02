@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeveshG0el
 - 👀 I’m interested in Reading Books
-- 🌱 I’m currently learning Web Devlopment
-- 💞️ I’m looking to collaborate on Various Projects after I Completely Learn Web Devlopment 
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Various Projects after I Completely Learn Web Development 
 - 😄 Pronouns: He/Him
 
 <!---
