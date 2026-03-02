@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reading Books
 - 🌱 I’m currently learning Web Devlopment
 - 💞️ I’m looking to collaborate on Various Projects after I Completely Learn Web Devlopment 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 <!---
 DeveshG0el/DeveshG0el is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
